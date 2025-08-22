@@ -1,4 +1,4 @@
-# Predict Obesity Level Using Supervised/Unsupervised Machine Learning
+# Predict Obesity Level Using Machine Learning
 
 ---
 
